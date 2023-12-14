@@ -64,3 +64,6 @@ This Google Apps Script automates the process of replacing placeholders in a Goo
 - **Placeholder Not Replaced**: Ensure the placeholder in the Spreadsheet and Google Doc match exactly.
 - **Script Errors**: Check for correct IDs for the Spreadsheet, Document, and Output Folder.
 - **Permission Issues**: Make sure you have edit access to all relevant files and folders.
+
+## Upcoming Enhancement
+The next phase of development for this script is focused on enabling batch processing of multiple documents. This will involve iterating over a series of document templates and possibly multiple rows in the spreadsheet for different sets of values. The goal is to create a more robust system capable of automating document creation on a larger scale, saving even more time and reducing manual effort.
